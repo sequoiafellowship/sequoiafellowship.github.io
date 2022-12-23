@@ -29,10 +29,23 @@ body {
   height: 80px;
   margin-right: 20px;
 }
+.main-page .header {
+  margin-bottom: 20px;
+}
+.blog-page .header {
+  margin-bottom: 0;
+}
 .nav {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
+}
+ul li a i {
+  color: #333;
+  font-size: 18px;
+}
+ul li a:hover i {
+  color: #0070c9;
 }
 .nav ul {
   list-style: none;
