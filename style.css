@@ -12,7 +12,6 @@ body {
 .header {
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
 }
 .header h1 {
   display: flex;
