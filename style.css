@@ -1,6 +1,11 @@
 /* Add some styles to make the page look polished */
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Regular.ttf');
+}
 body {
-  font-family: Arial, sans-serif;
+  /* font-family: Arial, sans-serif; */
+  font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
 }
